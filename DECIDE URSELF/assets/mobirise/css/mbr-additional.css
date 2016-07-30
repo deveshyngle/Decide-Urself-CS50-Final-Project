@@ -1,0 +1,89 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+
+#ext_menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-0 .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-0 .mbr-brand__name a {
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+#ext_menu-0 .mbr-navbar__items a {
+  font-size: 14px;
+}
+#header4-3 P {
+  text-align: center;
+}
+#header4-3 .btn {
+  font-size: 18px;
+}
+
+#ext_menu-1 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-1.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-1 .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-1 .mbr-brand__name a {
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+#ext_menu-1 .mbr-navbar__items a {
+  font-size: 14px;
+}
+#content5-2 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-2 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-2 .mbr-article {
+  color: #fff;
+}
+
+
+
+#ext_menu-4 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-4.mbr-navbar--stuck .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-4 .mbr-navbar__section {
+  background: #000000;
+}
+#ext_menu-4 .mbr-brand__name a {
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+}
+#ext_menu-4 .mbr-navbar__items a {
+  font-size: 14px;
+}
+#features1-6 .mbr-section-title .mbr-header__text {
+  font-family: 'Indie Flower', cursive;
+  font-size: 48px;
+}
+#features1-6 .mbr-header__subtext {
+  font-family: 'Montserrat', sans-serif;
+}
+#features1-6 .mbr-header__subtext B {
+  font-size: 30px;
+}
+#features1-6 .mbr-section__col .mbr-header__text {
+  font-size: 32px;
+}
+#features1-6 P {
+  font-size: 25px;
+  color: #b8312f;
+}
